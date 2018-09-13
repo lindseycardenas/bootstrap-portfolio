@@ -18,6 +18,9 @@ h3{
     
 }
 
+.form-group{
+    list-style-type: circle;
+}
 
 /*trying to add background image
 .container{
